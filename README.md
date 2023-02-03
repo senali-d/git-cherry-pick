@@ -1,4 +1,4 @@
-# git-cherry-pick
+# Git cherry-pick (git cherry-pick)
 
 ## Commits log
 
